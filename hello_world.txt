@@ -1,0 +1,8 @@
+Hello! This is a test project for a beginner course from TOP (The Odin Project).
+
+At the time of writing, local time 21:01, Thursday, December 23, 2021!
+
+
+
+
+---------------------See You Soon, SPACE COWBOY----------------------
